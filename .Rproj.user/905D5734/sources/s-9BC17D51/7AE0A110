@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590423836576.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7AE0A110",
+    "lastKnownWriteTime" : 1590423990,
+    "last_content_update" : 1590423990607,
+    "path" : "~/Documents/GitHub/108BigDataCGUIMHW2/InterStu.Rmd",
+    "project_path" : "InterStu.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,107",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
